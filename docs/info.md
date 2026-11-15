@@ -199,4 +199,6 @@ The project uses only the standard Tiny Tapeout clock, reset, dedicated GPIO, an
 
 This project is licensed under the Apache License 2.0. See the `LICENSE` file for details.
 
-![Logo](logo.svg)
+---
+
+<img src="logo.svg" alt="MITRE Logo" width="200">
